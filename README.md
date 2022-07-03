@@ -48,7 +48,7 @@ After the ride length is added to the sheet, some inconsistency of the data is o
 
 ## Stage 4: Analyze
  Firstly, geolocations of the start stations for each of the rider types are shown in the following maps.
- ![](casual.png) 
+ ![](./images/casual.png) 
  ![](members.png)
 For these two types of riders, there is no significant difference for using the bikes in terms of geolocatons of the stations.
 

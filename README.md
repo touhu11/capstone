@@ -55,9 +55,9 @@ For these two types of riders, there is no significant difference for using the 
 ### Analysis on the diffences between members and casual riders
 #### Exploratory data analysis
 After looking into the ride lengths in details, the data needs more cleaning in statistical terms for the outliers. After removing the outliers using the IQR method, the ride length distributios by types of riders and by days of week are shown here.
-![](ride_length_by_riders.jpeg)
+![](./images/ride_length_by_riders.jpeg)
 
-![](ride_length_by_days.jpeg) 
+![](./images/ride_length_by_days.jpeg) 
 ### Descriptive measures on ride lengths
 
 #### Descritpive measures on ride length (minutes)
@@ -86,14 +86,14 @@ After looking into the ride lengths in details, the data needs more cleaning in 
 
 The trend line of memberhip by month has shown that the percentage of members is decreasing, so it is a negative sign that Cyclistic should consider attacting more causal riders to be an annual member.
 
-![](monthly_percent.jpeg)
+![](./images/monthly_percent.jpeg)
 
 
-![](monthly_mean_length.jpeg)
+![](./images/monthly_mean_length.jpeg)
 
 Even by day or month, the difference between the members and casual riders is about four minutes per trip as the bar plot and the line chart have shown.
 
-![](daily_mean_length.jpeg)
+![](./images/daily_mean_length.jpeg)
 
 ## Stage 5: Share
 With the task assigned by the markeing supervisor, Lily Moreno, as a data story teller, after cruching all the data, and using all the methods and tools, I can show the insights clearly to the stakeholders including the executive team and my manager

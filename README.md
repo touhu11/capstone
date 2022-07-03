@@ -101,11 +101,12 @@ with [this power presentaton ](https://touhu11.github.io/capstone_cyclistic/cycl
 
 ## Stage 6: Act
 Based on my findings, I would like to give three recommendations.
-Annual promotion is likely successful based on the casual rider’s trend line of increasing percentages of riders.
 
-Their geo-location background is similar to that of the members based on their starting points of trips.
+(1). Annual promotion is likely successful based on the casual rider trend line of increasing percentages of riders.
 
-Their usage patterns are similar to those of the members by considering the ride lengths by days of the week.
+(2). Their geo-location background is similar to that of the members based on their starting points of trips. There are there is no problem for the casual riders to use the bikes at the current stations.
+
+(3). Their usage patterns are similar to those of the members by considering the ride lengths by days of the week. Their trip lengths are even longer, so they can save more if they subcribe their annual membership.
 
 
 

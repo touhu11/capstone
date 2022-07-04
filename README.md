@@ -97,7 +97,7 @@ Even by day or month, the difference between the members and casual riders is ab
 
 ## Stage 5: Share
 With the task assigned by the markeing supervisor, Lily Moreno, as a data story teller, after cruching all the data, and using all the methods and tools, I can show the insights clearly to the stakeholders including the executive team and my manager
-with [this power presentaton ](https://touhu11.github.io/capstone_cyclistic/cyclistic_presentation.pptx) with some recommenations.
+with [this power presentaton ](https://touhu11.github.io/capstone-bikeshare/cyclistic_presentation.pptx) with some recommenations.
 
 ## Stage 6: Act
 Based on my findings, I would like to give three recommendations.

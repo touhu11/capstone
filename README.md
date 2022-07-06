@@ -5,10 +5,6 @@ date: '2022-06-20'
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ![](cyclistic_brand.jpg)
 
 # Introduction
@@ -48,8 +44,8 @@ After the ride length is added to the sheet, some inconsistency of the data is o
 
 ## Stage 4: Analyze
  Firstly, geolocations of the start stations for each of the rider types are shown in the following maps.
- ![](./images/casual.png) 
- ![](members.png)
+ ![](./images/casual.png)
+ ![](./images/members.png)
 For these two types of riders, there is no significant difference for using the bikes in terms of geolocatons of the stations.
 
 ### Analysis on the diffences between members and casual riders
